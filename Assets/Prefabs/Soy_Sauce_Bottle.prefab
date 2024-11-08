@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 7555886741036327966}
   - component: {fileID: 7555886741036327967}
   m_Layer: 0
-  m_Name: Soy Bottle
+  m_Name: Soy_Sauce_Bottle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
