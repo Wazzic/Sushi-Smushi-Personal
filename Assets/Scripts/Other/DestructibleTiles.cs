@@ -7,19 +7,15 @@ using UnityEngine.Tilemaps;
 
 public class DestructibleTiles : MonoBehaviour
 {
-    [SerializeField]
-    private Sprite sprite;
+    [SerializeField] private Sprite sprite;
 
-    [SerializeField]
-    private int ticksToBreakMax;
-    private int ticksToBreak;
+    [SerializeField] private int ticksToBreakMax;
+     private int ticksToBreak;
 
-    [SerializeField]
-    private int ticksToRespawnMax;
-    private int ticksToRespawn;
+    [SerializeField] private int ticksToRespawnMax;
+     private int ticksToRespawn;
 
     private SpriteRenderer sr;
-    private Animator anim;
 
     private bool isBreaking;
     private bool isRespawning;
@@ -28,8 +24,6 @@ public class DestructibleTiles : MonoBehaviour
     {
         ticksToBreak = ticksToBreakMax;
         ticksToRespawn = ticksToRespawnMax;
-
-        //anim = GetComponent<Animator>();
 
         sr = GetComponent<SpriteRenderer>();
         sr.sprite = sprite;
@@ -54,12 +48,10 @@ public class DestructibleTiles : MonoBehaviour
         if (isRespawning)
         {
             ticksToRespawn--;
-            //Debug.Log(ticksToRespawn);
         }
 
         if (ticksToRespawn <= 0)
         {
-            //Play respawn animation
 
             ticksToBreak = ticksToBreakMax;
             ticksToRespawn = ticksToRespawnMax;
@@ -76,7 +68,6 @@ public class DestructibleTiles : MonoBehaviour
         if (isBreaking)
         {
             ticksToBreak--;
-            //Debug.Log(ticksToBreak);
         }
 
         if (ticksToBreak <= 0)

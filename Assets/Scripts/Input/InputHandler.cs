@@ -50,23 +50,9 @@ public class InputHandler : MonoBehaviour
 		#endregion
 	}
 
-	#region Events
 	public class InputArgs
 	{
 		public InputAction.CallbackContext context;
 	}
-	#endregion
-
-	#region OnEnable/OnDisable
-	//private void OnEnable()
-	//{
-	//	controls.Enable();
-	//}
-
-	//private void OnDisable()
-	//{
-	//	controls.Disable();
-	//}
-	#endregion
 }
 
