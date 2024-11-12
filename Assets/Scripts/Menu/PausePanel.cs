@@ -3,17 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
 public class PausePanel : MonoBehaviour
 {
     private bool open = false;
 
-    [SerializeField]
-    private Slider backgroundVol;
-    [SerializeField]
-    private Slider SFXVol;
+    [SerializeField] private Slider backgroundVol;
+    [SerializeField] private Slider SFXVol;
 
-    // Start is called before the first frame update
     void Start()
     {
         transform.localScale = Vector2.zero;

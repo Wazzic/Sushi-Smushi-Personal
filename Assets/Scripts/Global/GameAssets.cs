@@ -31,11 +31,6 @@ public class GameAssets : MonoBehaviour
         public SoundManager.Sound sound;
     }
 
-    private void Awake()
-    {
-        //DontDestroyOnLoad(gameObject);
-    }
-
     private void Start()
     {
         SoundManager.Initialize();
@@ -44,7 +39,7 @@ public class GameAssets : MonoBehaviour
 
         TimeTickSystem.OnTick += delegate (object sender, TimeTickSystem.OnTickEventArgs e)
         {
-            //Debug.Log(e.eventTick);
+
         };
     }
 

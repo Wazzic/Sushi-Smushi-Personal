@@ -4,8 +4,6 @@ using UnityEngine;
 
 public static class SoundManager
 {
-
-    // todo: Add all sound triggers...
     public enum Sound
     {
         PlayerJump,
@@ -37,7 +35,6 @@ public static class SoundManager
     private static float musicVolume;
     private static float oneShotVolume;
 
-
     public static void Initialize()
     {
         soundTimerDictionary = new Dictionary<Sound, float>();
@@ -47,7 +44,6 @@ public static class SoundManager
         soundTimerDictionary[Sound.PlayerWallJump] = 0.2f;
     }
 
-    // 3D sound (falloff etc)...
     public static void PlaySound(Sound sound, Vector3 position)
     {
         if (CanPlaySound(sound))
@@ -67,7 +63,6 @@ public static class SoundManager
         }
     }
 
-    // 2D sound...
     public static void PlaySound(Sound sound)
     {
         if (CanPlaySound(sound))
@@ -135,14 +130,12 @@ public static class SoundManager
             if (soundClip.sound == sound)
                 return soundClip.audioClip;
         }
-        //Debug.Log("Sound " + sound + " not found.");
         return null;
     }
 
     public static void AdjustMusicVolume(float volume)
     {
         musicVolume = volume;
-        //Debug.Log("[SOUND MANAGER] Music Volume changed to " + volume);
 
         if (musicGameObject != null)
             musicAudioSource.volume = musicVolume;
