@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class EnemyProximity : MonoBehaviour
 {
-    [SerializeField]
-    private float radius;
+    [SerializeField] private float radius;
 
     private Animator anim;
 
     private void Start()
     {
         anim = GetComponent<Animator>();
-
         GetComponent<CircleCollider2D>().radius = radius;
     }
 

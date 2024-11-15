@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 
 public class ButtonSoundFX : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
-    private bool hover = false;
+    public bool hover = false;
     private Button button;
 
     private void Start()

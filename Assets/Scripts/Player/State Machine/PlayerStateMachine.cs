@@ -260,7 +260,7 @@ public class PlayerStateMachine : MonoBehaviour
     private void JumpCut()
 	{
 		//applies force downward when the jump button is released. Allowing the player to control jump height
-		RB.AddForce(Vector2.down * RB.velocity.y * (1 - data.jumpCutMultiplier), ForceMode2D.Impulse);
+		RB.AddForce((1 - data.jumpCutMultiplier) * RB.velocity.y * Vector2.down, ForceMode2D.Impulse);
 	}
 
 	public void Slide()

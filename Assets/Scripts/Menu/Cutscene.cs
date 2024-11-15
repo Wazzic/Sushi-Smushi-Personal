@@ -6,17 +6,17 @@ using UnityEngine.SceneManagement;
 
 public class Cutscene : MonoBehaviour
 {
-    private VideoPlayer player;
+    private VideoPlayer Vplayer;
 
     private void Start()
     {
         SoundManager.StopBackgroundMusic();
 
-        player = GetComponent<VideoPlayer>();
-        player.SetDirectAudioVolume(0, CrossSceneInfo.musicVolume);
+        Vplayer = GetComponent<VideoPlayer>();
+        Vplayer.SetDirectAudioVolume(0, CrossSceneInfo.musicVolume);
         Debug.Log(CrossSceneInfo.musicVolume);
 
-        player.loopPointReached += StartGame;
+        Vplayer.loopPointReached += StartGame;
 
         CrossSceneInfo.levels[0].unlocked = true;
     }
@@ -34,6 +34,6 @@ public class Cutscene : MonoBehaviour
 
     private void OnDestroy()
     {
-        player.loopPointReached -= StartGame;
-;    }
+        Vplayer.loopPointReached -= StartGame;
+    }
 }

@@ -6,10 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class LevelSelect : MonoBehaviour
 {
-    [SerializeField]
-    private Button[] levels;
-    [SerializeField]
-    private GameObject[] soyBottles;
+    [SerializeField] private Button[] levels;
+    [SerializeField] private GameObject[] soyBottles;
 
     private void Start()
     {
