@@ -3,7 +3,7 @@ guid: b4f538430a85c6f4990e178eae507204
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,17 +64,20 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
+    textureCompression: 2
+    compressionQuality: 80
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -86,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -98,6 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1416,71 +1422,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      kitchen-set3_23: 1179231703
-      kitchen-set3_43: -1728572571
-      kitchen-set3_30: 595988931
-      kitchen-set3_41: 2034178845
-      kitchen-set3_11: -238306928
-      kitchen-set3_50: 1940610811
-      kitchen-set3_56: 337765039
-      kitchen-set3_52: -483565085
-      kitchen-set3_26: 1681098782
-      kitchen-set3_28: 1727921166
-      kitchen-set3_44: 536358466
-      kitchen-set3_42: 425312270
-      kitchen-set3_29: 1376085992
-      kitchen-set3_6: -1964114259
-      kitchen-set3_25: 1746191087
-      kitchen-set3_24: -1017299111
-      kitchen-set3_7: -1457984691
-      kitchen-set3_33: -1164983410
-      kitchen-set3_39: -1394886318
-      kitchen-set3_38: 659751751
-      kitchen-set3_10: -1412718891
       kitchen-set3_0: 1683268942
-      kitchen-set3_51: -698922710
-      kitchen-set3_12: -1444395251
-      kitchen-set3_37: -2059394881
-      kitchen-set3_55: 1388581865
-      kitchen-set3_57: 981344385
-      kitchen-set3_9: -2118649936
-      kitchen-set3_27: -2105800553
-      kitchen-set3_35: -1931061179
-      kitchen-set3_36: 1201161817
-      kitchen-set3_40: 1000572262
-      kitchen-set3_53: 188628991
-      kitchen-set3_13: 1861760814
-      kitchen-set3_15: 814578818
-      kitchen-set3_61: 114387669
-      kitchen-set3_31: 1437630469
-      kitchen-set3_5: 229596335
-      kitchen-set3_20: -2100257800
-      kitchen-set3_47: -733644231
-      kitchen-set3_22: -1812283296
-      kitchen-set3_49: 731244588
-      kitchen-set3_60: 510069726
       kitchen-set3_1: -1116123986
-      kitchen-set3_2: -1695544519
-      kitchen-set3_19: -1670371116
-      kitchen-set3_3: 1513464438
-      kitchen-set3_4: 654994578
-      kitchen-set3_48: 1005532388
+      kitchen-set3_10: -1412718891
+      kitchen-set3_11: -238306928
+      kitchen-set3_12: -1444395251
+      kitchen-set3_13: 1861760814
       kitchen-set3_14: 1119528891
-      kitchen-set3_45: 1437491469
-      kitchen-set3_21: -121224661
+      kitchen-set3_15: 814578818
       kitchen-set3_16: 862931103
-      kitchen-set3_8: 1184038951
-      kitchen-set3_34: 976624338
-      kitchen-set3_54: -1083211943
-      kitchen-set3_58: 791332913
-      kitchen-set3_46: -1684566206
-      kitchen-set3_59: -469108702
       kitchen-set3_17: -1744772349
       kitchen-set3_18: -925698238
+      kitchen-set3_19: -1670371116
+      kitchen-set3_2: -1695544519
+      kitchen-set3_20: -2100257800
+      kitchen-set3_21: -121224661
+      kitchen-set3_22: -1812283296
+      kitchen-set3_23: 1179231703
+      kitchen-set3_24: -1017299111
+      kitchen-set3_25: 1746191087
+      kitchen-set3_26: 1681098782
+      kitchen-set3_27: -2105800553
+      kitchen-set3_28: 1727921166
+      kitchen-set3_29: 1376085992
+      kitchen-set3_3: 1513464438
+      kitchen-set3_30: 595988931
+      kitchen-set3_31: 1437630469
       kitchen-set3_32: -1615889770
-  spritePackingTag: 
+      kitchen-set3_33: -1164983410
+      kitchen-set3_34: 976624338
+      kitchen-set3_35: -1931061179
+      kitchen-set3_36: 1201161817
+      kitchen-set3_37: -2059394881
+      kitchen-set3_38: 659751751
+      kitchen-set3_39: -1394886318
+      kitchen-set3_4: 654994578
+      kitchen-set3_40: 1000572262
+      kitchen-set3_41: 2034178845
+      kitchen-set3_42: 425312270
+      kitchen-set3_43: -1728572571
+      kitchen-set3_44: 536358466
+      kitchen-set3_45: 1437491469
+      kitchen-set3_46: -1684566206
+      kitchen-set3_47: -733644231
+      kitchen-set3_48: 1005532388
+      kitchen-set3_49: 731244588
+      kitchen-set3_5: 229596335
+      kitchen-set3_50: 1940610811
+      kitchen-set3_51: -698922710
+      kitchen-set3_52: -483565085
+      kitchen-set3_53: 188628991
+      kitchen-set3_54: -1083211943
+      kitchen-set3_55: 1388581865
+      kitchen-set3_56: 337765039
+      kitchen-set3_57: 981344385
+      kitchen-set3_58: 791332913
+      kitchen-set3_59: -469108702
+      kitchen-set3_6: -1964114259
+      kitchen-set3_60: 510069726
+      kitchen-set3_61: 114387669
+      kitchen-set3_7: -1457984691
+      kitchen-set3_8: 1184038951
+      kitchen-set3_9: -2118649936
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
