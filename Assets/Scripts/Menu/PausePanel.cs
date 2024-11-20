@@ -20,12 +20,14 @@ public class PausePanel : MonoBehaviour
 
     public void Open()
     {
-        transform.LeanScale(Vector2.one, 0.2f);
+        transform.LeanScale(Vector2.one*2, 0.2f);
+        //Time.timeScale = 0;
     }
 
     public void Close()
     {
         transform.LeanScale(Vector2.zero, 0.2f);
+        //Time.timeScale = 1;
     }
 
     public void LevelSelectButton()
