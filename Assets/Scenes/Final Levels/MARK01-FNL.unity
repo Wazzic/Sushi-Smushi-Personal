@@ -638,7 +638,7 @@ GameObject:
   - component: {fileID: 769220021}
   - component: {fileID: 769220020}
   m_Layer: 7
-  m_Name: Hazard tilemap
+  m_Name: Hazard Tilemap
   m_TagString: Hazard
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
