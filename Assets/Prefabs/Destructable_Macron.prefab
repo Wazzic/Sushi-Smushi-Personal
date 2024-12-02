@@ -145,8 +145,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sprite: {fileID: -966673401, guid: 6b48801c3e201d947baf20d25aef5969, type: 3}
-  ticksToBreakMax: 2
-  ticksToRespawnMax: 15
+  ticksToBreakMax: 3
+  ticksToRespawnMax: 10
 --- !u!50 &1971954331553194495
 Rigidbody2D:
   serializedVersion: 4
