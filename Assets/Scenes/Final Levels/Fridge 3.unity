@@ -198,7 +198,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_20
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -268,7 +268,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_26
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -338,7 +338,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -408,7 +408,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -556,7 +556,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_6
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -642,7 +642,7 @@ Transform:
   m_GameObject: {fileID: 108204201}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.99996287, w: -0.008617387}
-  m_LocalPosition: {x: 8.81, y: -8.54, z: 9.427246}
+  m_LocalPosition: {x: 8.81, y: -8.18, z: 9.427246}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -663,9 +663,9 @@ MonoBehaviour:
   m_ComponentVersion: 1
   m_LightType: 3
   m_BlendStyleIndex: 0
-  m_FalloffIntensity: 0.442
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
-  m_Intensity: 1.2
+  m_FalloffIntensity: 0.55
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 1
   m_LightVolumeIntensity: 0.15
   m_LightVolumeIntensityEnabled: 1
   m_ApplyToSortingLayers: 00000000
@@ -684,10 +684,10 @@ MonoBehaviour:
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 24.78
-  m_PointLightOuterAngle: 105.0717
-  m_PointLightInnerRadius: 5.286191
-  m_PointLightOuterRadius: 17.8474
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 120
+  m_PointLightInnerRadius: 5
+  m_PointLightOuterRadius: 15
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
@@ -708,7 +708,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_25
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -778,7 +778,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -848,7 +848,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1002,7 +1002,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_27
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1072,7 +1072,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_42
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1236,7 +1236,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1306,7 +1306,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_5
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1460,7 +1460,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_31
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1530,7 +1530,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1600,7 +1600,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_13
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1660,6 +1660,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1971954331553194489, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
   m_PrefabInstance: {fileID: 289974453}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &331039419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331039420}
+  - component: {fileID: 331039421}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &331039420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 331039419}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: 0.9998977, w: -0.014304698}
+  m_LocalPosition: {x: -15.26, y: 14.77, z: 9.427246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455071487}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+--- !u!114 &331039421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 331039419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.5
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.5
+  m_LightVolumeIntensity: 0.3
+  m_LightVolumeIntensityEnabled: 1
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 0
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 140
+  m_PointLightInnerRadius: 2.6023202
+  m_PointLightOuterRadius: 9.977385
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1 &345566081
 GameObject:
   m_ObjectHideFlags: 0
@@ -1708,7 +1790,7 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.478
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
   m_Intensity: 1
   m_LightVolumeIntensity: 0.2
   m_LightVolumeIntensityEnabled: 1
@@ -1752,7 +1834,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1822,7 +1904,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3516122082151615528, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_Name
-      value: BouncePad (2)
+      value: Bounce Pad
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_RootOrder
@@ -1986,6 +2068,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &410945839
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 410945840}
+  - component: {fileID: 410945841}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &410945840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410945839}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: 0.99996287, w: -0.008617387}
+  m_LocalPosition: {x: 3.3100004, y: -6.29, z: 9.427246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455071487}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+--- !u!114 &410945841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410945839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.55
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.5
+  m_LightVolumeIntensity: 0.15
+  m_LightVolumeIntensityEnabled: 1
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 0
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 120
+  m_PointLightInnerRadius: 5
+  m_PointLightOuterRadius: 15
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1 &414693122
 GameObject:
   m_ObjectHideFlags: 0
@@ -2012,7 +2176,7 @@ Transform:
   m_GameObject: {fileID: 414693122}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.9999995, w: 0.0010115103}
-  m_LocalPosition: {x: -8.6, y: -6.64, z: 9.427246}
+  m_LocalPosition: {x: -8.6, y: -6.141, z: 9.427246}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2033,8 +2197,8 @@ MonoBehaviour:
   m_ComponentVersion: 1
   m_LightType: 3
   m_BlendStyleIndex: 0
-  m_FalloffIntensity: 0.573
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
+  m_FalloffIntensity: 0.55
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
   m_Intensity: 0.75
   m_LightVolumeIntensity: 0.3
   m_LightVolumeIntensityEnabled: 1
@@ -2054,8 +2218,8 @@ MonoBehaviour:
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 63.38861
-  m_PointLightOuterAngle: 138.0186
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 140
   m_PointLightInnerRadius: 5.625324
   m_PointLightOuterRadius: 13.39447
   m_ShapeLightParametricSides: 5
@@ -2101,8 +2265,8 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.65
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
-  m_Intensity: 0.8
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.5
   m_LightVolumeIntensity: 0.3
   m_LightVolumeIntensityEnabled: 1
   m_ApplyToSortingLayers: 00000000
@@ -2121,10 +2285,10 @@ MonoBehaviour:
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 28.477926
-  m_PointLightOuterAngle: 88.65566
-  m_PointLightInnerRadius: 9.897541
-  m_PointLightOuterRadius: 20.875076
+  m_PointLightInnerAngle: 5
+  m_PointLightOuterAngle: 140
+  m_PointLightInnerRadius: 12
+  m_PointLightOuterRadius: 20
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
@@ -2179,16 +2343,23 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 96866894}
-  - {fileID: 1360692189}
   - {fileID: 2038929161}
+  - {fileID: 331039420}
+  - {fileID: 1695106160}
+  - {fileID: 1150889312}
   - {fileID: 439444872}
   - {fileID: 2021037333}
+  - {fileID: 2077379415}
   - {fileID: 1555550787}
   - {fileID: 2104435885}
   - {fileID: 345566082}
+  - {fileID: 618132943}
+  - {fileID: 1479318714}
   - {fileID: 414693123}
   - {fileID: 108204202}
+  - {fileID: 410945840}
+  - {fileID: 96866894}
+  - {fileID: 1360692189}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &455526679
@@ -2201,7 +2372,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_16
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2271,7 +2442,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_49
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2341,7 +2512,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_44
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2411,7 +2582,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2485,7 +2656,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy Bottle (6)
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2575,7 +2746,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_14
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2805,6 +2976,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &618132942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 618132943}
+  - component: {fileID: 618132944}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &618132943
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 618132942}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -1, w: 0}
+  m_LocalPosition: {x: -11.63, y: 5.8, z: 9.427246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455071487}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+--- !u!114 &618132944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 618132942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.478
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.5
+  m_LightVolumeIntensity: 0.2
+  m_LightVolumeIntensityEnabled: 1
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 0
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 120
+  m_PointLightInnerRadius: 4.1
+  m_PointLightOuterRadius: 12.39
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1001 &628840061
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2815,7 +3068,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_28
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2885,7 +3138,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3039,7 +3292,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_29
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3301,7 +3554,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_15
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3371,7 +3624,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_23
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3441,7 +3694,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3515,7 +3768,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy Bottle (7)_1
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3605,7 +3858,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3677,7 +3930,7 @@ GameObject:
   - component: {fileID: 735015522}
   - component: {fileID: 735015521}
   m_Layer: 6
-  m_Name: Decorating
+  m_Name: Background Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7487,7 +7740,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_7
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7557,7 +7810,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_9
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7627,7 +7880,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7697,7 +7950,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_48
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7993,7 +8246,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_39
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8063,7 +8316,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8133,7 +8386,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_12
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8203,7 +8456,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8313,7 +8566,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_38
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8383,7 +8636,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8453,7 +8706,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_40
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8523,7 +8776,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3516122082151615528, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_Name
-      value: BouncePad (2)_1
+      value: Bounce Pad
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_RootOrder
@@ -8603,6 +8856,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
   m_PrefabInstance: {fileID: 1096294244}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1150889311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1150889312}
+  - component: {fileID: 1150889313}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &1150889312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150889311}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: 0.9998977, w: -0.014304698}
+  m_LocalPosition: {x: 10.24, y: 14.77, z: 9.427246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455071487}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+--- !u!114 &1150889313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150889311}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.5
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 1
+  m_LightVolumeIntensity: 0.2
+  m_LightVolumeIntensityEnabled: 1
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 0
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 20
+  m_PointLightOuterAngle: 170
+  m_PointLightInnerRadius: 2.6023202
+  m_PointLightOuterRadius: 9.977385
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1001 &1151171766
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8695,7 +9030,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_45
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8765,7 +9100,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8835,7 +9170,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_10
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9037,7 +9372,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9189,7 +9524,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9259,7 +9594,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9329,7 +9664,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_43
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9465,7 +9800,7 @@ GameObject:
   - component: {fileID: 1286643789}
   - component: {fileID: 1286643793}
   m_Layer: 6
-  m_Name: Level
+  m_Name: Level Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19850,7 +20185,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_41
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19998,7 +20333,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20068,7 +20403,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_22
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20222,7 +20557,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_19
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20292,7 +20627,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20512,7 +20847,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20712,7 +21047,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_47
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20772,6 +21107,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1971954331553194489, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
   m_PrefabInstance: {fileID: 1459599831}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1479318713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1479318714}
+  - component: {fileID: 1479318715}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &1479318714
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479318713}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -1, w: 0}
+  m_LocalPosition: {x: 9.37, y: 5.8, z: 9.427246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455071487}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+--- !u!114 &1479318715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479318713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.478
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.5
+  m_LightVolumeIntensity: 0.2
+  m_LightVolumeIntensityEnabled: 1
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 0
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 48.694233
+  m_PointLightOuterAngle: 160
+  m_PointLightInnerRadius: 10
+  m_PointLightOuterRadius: 12.39
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1001 &1495923339
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20786,7 +21203,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy Bottle (5)
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20960,7 +21377,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_46
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21030,7 +21447,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_3
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21100,7 +21517,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3516122082151615528, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_Name
-      value: BouncePad (2)_2
+      value: Bounce Pad
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_RootOrder
@@ -21190,7 +21607,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21260,7 +21677,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21352,9 +21769,9 @@ MonoBehaviour:
   m_ComponentVersion: 1
   m_LightType: 3
   m_BlendStyleIndex: 0
-  m_FalloffIntensity: 0.437
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
-  m_Intensity: 1
+  m_FalloffIntensity: 0.55
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.75
   m_LightVolumeIntensity: 0.2
   m_LightVolumeIntensityEnabled: 1
   m_ApplyToSortingLayers: 00000000
@@ -21373,8 +21790,8 @@ MonoBehaviour:
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 8.969997
-  m_PointLightOuterAngle: 64.46
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 130
   m_PointLightInnerRadius: 6.5
   m_PointLightOuterRadius: 12
   m_ShapeLightParametricSides: 5
@@ -21395,13 +21812,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1555550785}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: -1, w: 0}
-  m_LocalPosition: {x: 17.07, y: -6.4784927, z: 9.427246}
+  m_LocalRotation: {x: -0, y: -0, z: -0.9693197, w: 0.24580337}
+  m_LocalPosition: {x: 15.82, y: -6.4784927, z: 9.427246}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 455071487}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -151.541}
 --- !u!1001 &1611532212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21412,7 +21829,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_32
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21566,7 +21983,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_37
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21752,7 +22169,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy_Sauce_Bottle
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21812,6 +22229,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7555886741036327961, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
   m_PrefabInstance: {fileID: 1683355955}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1695106159
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1695106160}
+  - component: {fileID: 1695106161}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &1695106160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695106159}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: 0.9998977, w: -0.014304698}
+  m_LocalPosition: {x: 2.2399998, y: 14.77, z: 9.427246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455071487}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+--- !u!114 &1695106161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695106159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.5
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 1
+  m_LightVolumeIntensity: 0.2
+  m_LightVolumeIntensityEnabled: 1
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 0
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 20
+  m_PointLightOuterAngle: 170
+  m_PointLightInnerRadius: 2.6023202
+  m_PointLightOuterRadius: 9.977385
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1001 &1703853771
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21822,7 +22321,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21896,7 +22395,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy Bottle (2)
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21986,7 +22485,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22056,7 +22555,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_17
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22126,7 +22625,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_11
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22362,7 +22861,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22432,7 +22931,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22506,7 +23005,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy Bottle (7)
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22596,7 +23095,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22670,7 +23169,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy Bottle (1)
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22760,7 +23259,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22830,7 +23329,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_2
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22900,7 +23399,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_30
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23012,7 +23511,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
-      value: Soy Bottle (3)
+      value: Soy Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23102,7 +23601,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_21
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23172,7 +23671,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23328,7 +23827,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_1
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23398,7 +23897,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23491,8 +23990,8 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.45
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
-  m_Intensity: 1.2
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.55
   m_LightVolumeIntensity: 0.3
   m_LightVolumeIntensityEnabled: 1
   m_ApplyToSortingLayers: 00000000
@@ -23511,8 +24010,8 @@ MonoBehaviour:
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 19.881979
-  m_PointLightOuterAngle: 126.897835
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 140
   m_PointLightInnerRadius: 7.39
   m_PointLightOuterRadius: 23.8
   m_ShapeLightParametricSides: 5
@@ -23550,7 +24049,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_24
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23642,9 +24141,9 @@ MonoBehaviour:
   m_ComponentVersion: 1
   m_LightType: 3
   m_BlendStyleIndex: 0
-  m_FalloffIntensity: 0.7
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
-  m_Intensity: 1
+  m_FalloffIntensity: 0.5
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.5
   m_LightVolumeIntensity: 0.3
   m_LightVolumeIntensityEnabled: 1
   m_ApplyToSortingLayers: 00000000
@@ -23663,8 +24162,8 @@ MonoBehaviour:
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 57.59179
-  m_PointLightOuterAngle: 139.53952
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 140
   m_PointLightInnerRadius: 2.6023202
   m_PointLightOuterRadius: 9.977385
   m_ShapeLightParametricSides: 5
@@ -23686,7 +24185,7 @@ Transform:
   m_GameObject: {fileID: 2038929159}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.9998977, w: -0.014304698}
-  m_LocalPosition: {x: -19.74, y: 14.77, z: 9.427246}
+  m_LocalPosition: {x: -24.51, y: 14.77, z: 9.427246}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -23702,7 +24201,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_4
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23856,7 +24355,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_18
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23926,7 +24425,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_Name
-      value: Ice_8
+      value: Destructable Ice
       objectReference: {fileID: 0}
     - target: {fileID: 1971954331553194483, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23986,6 +24485,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1971954331553194489, guid: 4ce88fc688012cd46baa74525bb4dbae, type: 3}
   m_PrefabInstance: {fileID: 2076908462}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2077379414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2077379415}
+  - component: {fileID: 2077379416}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &2077379415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2077379414}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: 0.9999761, w: -0.00691497}
+  m_LocalPosition: {x: -15.9, y: -6.21, z: 9.427246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455071487}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
+--- !u!114 &2077379416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2077379414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.45
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.25
+  m_LightVolumeIntensity: 0.3
+  m_LightVolumeIntensityEnabled: 1
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 0
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 140
+  m_PointLightInnerRadius: 3
+  m_PointLightOuterRadius: 23.8
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1 &2104435884
 GameObject:
   m_ObjectHideFlags: 0
@@ -24012,7 +24593,7 @@ Transform:
   m_GameObject: {fileID: 2104435884}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.9999895, w: -0.004595436}
-  m_LocalPosition: {x: -6.72, y: 14.83, z: 9.427246}
+  m_LocalPosition: {x: -6.72, y: 14.78, z: 9.427246}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -24034,9 +24615,9 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 1, g: 0.789904, b: 0.504717, a: 1}
-  m_Intensity: 1
-  m_LightVolumeIntensity: 0.3
+  m_Color: {r: 1, g: 0.7882353, b: 0.5058824, a: 1}
+  m_Intensity: 0.75
+  m_LightVolumeIntensity: 0.4
   m_LightVolumeIntensityEnabled: 1
   m_ApplyToSortingLayers: 00000000
   m_LightCookieSprite: {fileID: 0}
@@ -24054,8 +24635,8 @@ MonoBehaviour:
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 52.988297
-  m_PointLightOuterAngle: 134.84802
+  m_PointLightInnerAngle: 10
+  m_PointLightOuterAngle: 140
   m_PointLightInnerRadius: 2
   m_PointLightOuterRadius: 10
   m_ShapeLightParametricSides: 5
