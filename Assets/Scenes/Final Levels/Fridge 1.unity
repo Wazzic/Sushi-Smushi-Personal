@@ -7,7 +7,7 @@ OcclusionCullingSettings:
   m_OcclusionBakeSettings:
     smallestOccluder: 5
     smallestHole: 0.25
-    backfaceThreshold: 100
+    backfaceThreshold: 25
   m_SceneGUID: 00000000000000000000000000000000
   m_OcclusionCullingData: {fileID: 0}
 --- !u!104 &2
@@ -5940,8 +5940,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.001249969, y: 0.00030004978, z: 0}
-    m_Extent: {x: 1.25805, y: 1.2514, z: 0}
+    m_Center: {x: 0.0031999946, y: 0.0015000105, z: 0}
+    m_Extent: {x: 1.2557001, y: 1.2546, z: 0}
   m_PointLightInnerAngle: 60.493233
   m_PointLightOuterAngle: 126.408646
   m_PointLightInnerRadius: 2

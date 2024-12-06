@@ -2485,8 +2485,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 1.51195, y: 3.3194501, z: 0}
-    m_Extent: {x: 4.08285, y: 5.72635, z: 0}
+    m_Center: {x: 1.5182999, y: 3.3159003, z: 0}
+    m_Extent: {x: 4.0768, y: 5.73, z: 0}
   m_PointLightInnerAngle: 72.70999
   m_PointLightOuterAngle: 138.62
   m_PointLightInnerRadius: 4.632306
@@ -4716,7 +4716,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 479b25b7bf7ea364d877d40ed9490dc4, type: 2}
+  - {fileID: 2100000, guid: 089c7b8e8b7a1d34eab5514690b5701c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15631,8 +15631,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -1.3040999, y: 10.964049, z: 0}
-    m_Extent: {x: 5.3036, y: 12.55585, z: 0}
+    m_Center: {x: -1.3032, y: 10.96515, z: 0}
+    m_Extent: {x: 5.3007, y: 12.5526495, z: 0}
   m_PointLightInnerAngle: 16.249998
   m_PointLightOuterAngle: 54.74
   m_PointLightInnerRadius: 4.884542
@@ -21971,8 +21971,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 1.9102001, y: 2.91935, z: 0}
-    m_Extent: {x: 20.3234, y: 10.69485, z: 0}
+    m_Center: {x: 1.9155998, y: 2.9197001, z: 0}
+    m_Extent: {x: 20.3234, y: 10.685101, z: 0}
   m_PointLightInnerAngle: 56.679996
   m_PointLightOuterAngle: 180
   m_PointLightInnerRadius: 5.261334

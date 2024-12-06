@@ -2915,7 +2915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4942650199845543523, guid: 1e4840e74a0c8374a8ab46484327cac6, type: 3}
       propertyPath: speed
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4942650199845543523, guid: 1e4840e74a0c8374a8ab46484327cac6, type: 3}
       propertyPath: waypoints.Array.size
@@ -6542,7 +6542,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 479b25b7bf7ea364d877d40ed9490dc4, type: 2}
+  - {fileID: 2100000, guid: 089c7b8e8b7a1d34eab5514690b5701c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -24915,7 +24915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3745845880344413905, guid: da01b3945285ae74ea933edde3d92881, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 38
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 3745845880344413905, guid: da01b3945285ae74ea933edde3d92881, type: 3}
       propertyPath: m_LocalPosition.y
