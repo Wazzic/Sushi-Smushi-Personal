@@ -6671,9 +6671,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 170633721}
     m_Modifications:
+    - target: {fileID: 7555886740940169267, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
       value: Soy Bottle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327961, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_RootOrder
@@ -6718,6 +6726,10 @@ PrefabInstance:
     - target: {fileID: 7555886741036327961, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7555886741704185633, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7831,7 +7843,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.5
+      value: 3.3103
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_LocalScale.y
@@ -7843,7 +7855,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -58.504
+      value: -58.4774
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615530, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7891,7 +7903,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3516122082151615541, guid: 5b3846eb3353697409a1cfc3d67201c6, type: 3}
       propertyPath: bounceForce
-      value: 20
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15806,9 +15818,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 170633721}
     m_Modifications:
+    - target: {fileID: 7555886740940169267, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_Name
       value: Soy Bottle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7555886741036327960, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7555886741036327961, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_RootOrder
@@ -15853,6 +15873,10 @@ PrefabInstance:
     - target: {fileID: 7555886741036327961, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7555886741704185633, guid: dd7db30756cae5548aeb8447491f3927, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
