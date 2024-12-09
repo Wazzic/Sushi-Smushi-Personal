@@ -42,6 +42,8 @@ public static class SoundManager
         soundTimerDictionary[Sound.ButtonHover] = 0.5f;
         soundTimerDictionary[Sound.ButtonPress] = 0f;
         soundTimerDictionary[Sound.PlayerWallJump] = 0.2f;
+        //Test Underneath
+        soundTimerDictionary[Sound.PlayerDash] = 0.5f;
     }
 
     public static void PlaySound(Sound sound, Vector3 position)

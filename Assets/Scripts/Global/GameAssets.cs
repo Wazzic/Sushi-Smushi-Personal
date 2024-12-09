@@ -46,7 +46,7 @@ public class GameAssets : MonoBehaviour
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         switch (scene.buildIndex)
-        {
+        {    
             case 1:
                 SoundManager.PlayBackgroundMusic(SoundManager.Sound.MainMenu);
                 break;

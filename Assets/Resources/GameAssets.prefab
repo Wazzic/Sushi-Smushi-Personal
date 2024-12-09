@@ -17,7 +17,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2753451927473108659
 Transform:
@@ -26,13 +26,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2753451927473108657}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2753451927473108658
 MonoBehaviour:
@@ -61,41 +61,41 @@ MonoBehaviour:
   soundClipArray:
   - audioClip: {fileID: 8300000, guid: c65c77835c5d1c9488bcada24544a042, type: 3}
     sound: 0
-  - audioClip: {fileID: 8300000, guid: b5d0d13e87d010940b6dc2e78e278129, type: 3}
+  - audioClip: {fileID: 8300000, guid: 7bd7d28266f410d4e94ed20f98792835, type: 3}
     sound: 1
   - audioClip: {fileID: 8300000, guid: c65c77835c5d1c9488bcada24544a042, type: 3}
     sound: 2
-  - audioClip: {fileID: 8300000, guid: cd94281d5e5f4d7438b79acbf622a19f, type: 3}
+  - audioClip: {fileID: 8300000, guid: dfd1f06799bc04c49ae7223b4cf72e22, type: 3}
     sound: 3
-  - audioClip: {fileID: 8300000, guid: f685b0083c56ca44e919466d53316955, type: 3}
+  - audioClip: {fileID: 8300000, guid: f288b0e68eb439b4083a73e84990109f, type: 3}
     sound: 4
   - audioClip: {fileID: 8300000, guid: 7d43d7f11f9bc654bbee0bddf6806513, type: 3}
     sound: 6
-  - audioClip: {fileID: 8300000, guid: 4e0c00e43a675c840a1cdd02d23c3298, type: 3}
+  - audioClip: {fileID: 8300000, guid: e2714ae7640ef4b43b3a34d0d4ddd93b, type: 3}
     sound: 7
   - audioClip: {fileID: 8300000, guid: a2edd1520347c8f4aad41af106065cce, type: 3}
     sound: 5
-  - audioClip: {fileID: 8300000, guid: 6c7402b6b3095464d9db850885c4d565, type: 3}
+  - audioClip: {fileID: 8300000, guid: d25e2df7819979f4b9adcd15f3ee3d8d, type: 3}
     sound: 8
-  - audioClip: {fileID: 8300000, guid: 513197e4ea0798a4aa5c273b234bf22b, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 9
-  - audioClip: {fileID: 8300000, guid: 513197e4ea0798a4aa5c273b234bf22b, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 10
-  - audioClip: {fileID: 8300000, guid: 513197e4ea0798a4aa5c273b234bf22b, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 11
-  - audioClip: {fileID: 8300000, guid: 513197e4ea0798a4aa5c273b234bf22b, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 12
-  - audioClip: {fileID: 8300000, guid: 513197e4ea0798a4aa5c273b234bf22b, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 13
-  - audioClip: {fileID: 8300000, guid: cb55320d937abde49bafcff1af94bb72, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 14
-  - audioClip: {fileID: 8300000, guid: 3a5e0ac88f0782141834dd156e493645, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 15
-  - audioClip: {fileID: 8300000, guid: 3a5e0ac88f0782141834dd156e493645, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 16
-  - audioClip: {fileID: 8300000, guid: 3a5e0ac88f0782141834dd156e493645, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 17
-  - audioClip: {fileID: 8300000, guid: 3a5e0ac88f0782141834dd156e493645, type: 3}
+  - audioClip: {fileID: 8300000, guid: 6d5dcac78b157e7438542ac9abd05346, type: 3}
     sound: 18
 --- !u!114 &1979510921349887299
 MonoBehaviour:

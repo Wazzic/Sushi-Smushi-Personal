@@ -13,8 +13,7 @@ public class Cutscene : MonoBehaviour
         SoundManager.StopBackgroundMusic();
 
         Vplayer = GetComponent<VideoPlayer>();
-        Vplayer.SetDirectAudioVolume(0, CrossSceneInfo.musicVolume);
-        Debug.Log(CrossSceneInfo.musicVolume);
+        Vplayer.SetDirectAudioVolume(0, CrossSceneInfo.musicVolume - 0.25f);
 
         Vplayer.loopPointReached += StartGame;
 
