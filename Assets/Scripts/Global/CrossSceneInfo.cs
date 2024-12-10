@@ -6,16 +6,16 @@ public static class CrossSceneInfo
 {
     private static Dictionary<int, int> collectibleDict = new Dictionary<int, int> 
     { 
-        {0 , 0},
+        {0 , 1},
         {1 , 5},
-        {2 , 8},
+        {2 , 9},
         {3 , 8},
-        {4 , 5},
-        {5 , 4},
+        {4 , 4},
+        {5 , 5},
         {6 , 1},
-        {7 , 2},
-        {8 , 1},
-        {9 , 1}
+        {7 , 3},
+        {8 , 2},
+        {9 , 2}
     };
 
 
