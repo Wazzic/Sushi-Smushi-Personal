@@ -5838,7 +5838,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3745845880344413905, guid: da01b3945285ae74ea933edde3d92881, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3745845880344413905, guid: da01b3945285ae74ea933edde3d92881, type: 3}
       propertyPath: m_LocalPosition.z
@@ -26470,13 +26470,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1461677960}
     m_Modifications:
+    - target: {fileID: 4014513538701706943, guid: a04e9bde8c2c04349aec5956c04e8d97, type: 3}
+      propertyPath: m_Size.x
+      value: 0.5695114
+      objectReference: {fileID: 0}
+    - target: {fileID: 4014513538701706943, guid: a04e9bde8c2c04349aec5956c04e8d97, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9376707
+      objectReference: {fileID: 0}
+    - target: {fileID: 4014513538701706943, guid: a04e9bde8c2c04349aec5956c04e8d97, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.034420013
+      objectReference: {fileID: 0}
+    - target: {fileID: 4014513538701706943, guid: a04e9bde8c2c04349aec5956c04e8d97, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.28116465
+      objectReference: {fileID: 0}
     - target: {fileID: 5248958901052808354, guid: a04e9bde8c2c04349aec5956c04e8d97, type: 3}
       propertyPath: m_Name
       value: Enemy_2_Pickle
       objectReference: {fileID: 0}
     - target: {fileID: 5248958901052808355, guid: a04e9bde8c2c04349aec5956c04e8d97, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 164.75
+      value: 165
       objectReference: {fileID: 0}
     - target: {fileID: 5248958901052808355, guid: a04e9bde8c2c04349aec5956c04e8d97, type: 3}
       propertyPath: m_LocalPosition.y
